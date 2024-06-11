@@ -1,1 +1,2 @@
-# easyMeet
+# syncUp
+
